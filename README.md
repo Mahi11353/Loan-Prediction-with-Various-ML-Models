@@ -1,6 +1,6 @@
 # 🏦 Loan Prediction Using Various Machine Learning Models
 
-This project aims to automate the loan approval process by predicting whether an applicant is eligible for a loan using supervised machine learning techniques. The models are trained and evaluated on real-world data, originally from [Kaggle Loan Prediction Dataset](https://www.kaggle.com/code/caesarmario/loan-prediction-w-various-ml-models).
+This project aims to automate the loan approval process by predicting whether an applicant is eligible for a loan using supervised machine learning techniques. The models are trained and evaluated on real-world data set.
 
 ## 📌 Objective
 
@@ -37,8 +37,6 @@ The target variable is `Loan_Status` (Y/N), which indicates loan approval.
 4. **Decision Tree**
 5. **Random Forest**
 6. **Gradient Boosting**
-
-> **Note**: Naive Bayes Classifier was **not** included in this implementation.
 
 Each model was trained and tested using a train-test split and evaluated using:
 - Accuracy Score
